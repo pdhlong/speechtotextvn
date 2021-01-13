@@ -1,0 +1,4 @@
+- task.data=/content/gdrive/MyDrive/Colab Notebooks/fairseq_wav2vec/labelfile
+- model.w2v_path=/content/gdrive/MyDrive/Colab Notebooks/fairseq_wav2vec/wav2vec.pt
+- checkpoint.save_dir=/content/gdrive/MyDrive/Colab Notebooks/fairseq_wav2vec/modelmultilang
+- task.normalize=True

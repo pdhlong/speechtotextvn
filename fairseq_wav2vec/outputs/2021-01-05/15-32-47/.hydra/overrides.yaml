@@ -1,0 +1,2 @@
+- task.data=/content/gdrive/My Drive/Colab Notebooks/fairseq_wav2vec/labelfile2
+- checkpoint.finetune_from_model=/content/gdrive/My Drive/Colab Notebooks/fairseq_wav2vec/wav2vec_small.pt

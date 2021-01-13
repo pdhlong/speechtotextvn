@@ -1,0 +1,7 @@
+- task.data=/content/gdrive/My Drive/Colab Notebooks/self-supervised-speech-recognition-master/manifest
+- model.w2v_path=/content/gdrive/My Drive/Colab Notebooks/fairseq_wav2vec/mailong_pretrain.pt
+- checkpoint.save_dir=/content/gdrive/MyDrive/Colab Notebooks/fairseq_wav2vec/modelmultilang3
+- distributed_training.distributed_world_size=1
+- optimization.update_freq=[24]
+- dataset.num_workers=2
+- dataset.max_tokens=2800000

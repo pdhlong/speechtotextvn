@@ -1,0 +1,2 @@
+- task.data=/content/gdrive/My Drive/Colab Notebooks/fairseq_wav2vec/dataset/dataset
+- model.w2v_path=/content/gdrive/My Drive/Colab Notebooks/fairseq_wav2vec/checkpoints/checkpoint_best.pt
